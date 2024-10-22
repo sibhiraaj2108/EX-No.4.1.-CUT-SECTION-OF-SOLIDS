@@ -1,4 +1,4 @@
-# EX No.4.1. CUT SECTION OF SOLIDS
+  # EX No.4.1. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM
@@ -10,7 +10,7 @@ To create the solid model from given drawing and section the solid model
 3.16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-## PROCEDURE:
+## PROCEDURE:  
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
@@ -41,6 +41,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+![Screenshot 2024-10-22 085239](https://github.com/user-attachments/assets/50c6288c-5014-47f1-b87c-63cf4c15e440)
 
 ## RESULT:
 
